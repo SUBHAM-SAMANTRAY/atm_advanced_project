@@ -1,2 +1,12 @@
-# atm_advanced_project
-Python GUI ATM using Tkinter and SQLite. Includes user management, deposit, withdraw, transfer, logging, PIN change, and history in a modern window interface. Great for learning Python GUI and database integration.
+# Advanced Python ATM System (GUI + SQLite + Threading Example)
+A Tkinter-based ATM GUI, using SQLite for DB, with OOP and threading concepts.
+
+## How to run
+- Install Python 3
+- `python gui_atm.py`
+
+## Features
+- Sign up, login
+- Balance, deposit, withdraw
+- PIN change, transaction history
+- Data persists in SQLite
